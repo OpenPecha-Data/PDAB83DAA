@@ -1,0 +1,34 @@
+id: PDAB83DAA
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG862
+  instance_id: http://purl.bdrc.io/resource/IE1KG862
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བོད་ལྗོངས་ཀྱི་སྒྱུ་རྩལ།
+  alt_title:
+    en-x-mixed:
+    - Bod ljoṅs kyi sgyu rtsal /Źuṅ-wun-pin gyis brtsoms ; Dros-dmar-tshe-riṅ-rdo-rje
+      gyis bsgyur.
+    zh-hans:
+    - 西藏艺术
+  author: http://purl.bdrc.io/resource/P1KG863
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    1e41f0d0e4614f699517236220680254:
+      title: པོད ༡་བོད་ལྗོངས་ཀྱི་སྒྱུ་རྩལ།
+      volume_number: 1
+      base_file: UT1KG862_I1KG902_0000.txt
+      reference: http://purl.bdrc.io/resource/VLBF4BE2F0A1BE21F7
+      image_group: I1KG902
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG862
+  - http://purl.bdrc.io/resource/W1KG862
+  ocr_software: Namsel
+created_at: '2021-12-22T11:00:53.811211'
+last_modified_at: '2021-12-22T11:00:53.811218'
